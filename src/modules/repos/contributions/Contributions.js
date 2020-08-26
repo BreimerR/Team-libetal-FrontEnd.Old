@@ -1,5 +1,16 @@
 import * as React from "react";
 
-class Contributions extends React.Component {
+
+class Settings extends React.Component {
+
+
+    render() {
+
+        return (
+            <div>
+                "Feature execution starts from her"
+            </div>
+        );
+    }
 
 }
